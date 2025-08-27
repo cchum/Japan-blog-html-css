@@ -1,0 +1,116 @@
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/62211df7-e00b-4e90-b604-59520c8706e2/df0th84-e1a54785-fa2b-458a-8495-7e1718b8a8db.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYyMjExZGY3LWUwMGItNGU5MC1iNjA0LTU5NTIwYzg3MDZlMlwvZGYwdGg4NC1lMWE1NDc4NS1mYTJiLTQ1OGEtODQ5NS03ZTE3MThiOGE4ZGIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.n555syOyQSTpOUgwMKLhA6TaEkXg_-pt31NFocvFPqE);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.3;
+    filter: blur(3px);
+    z-index: -1;
+}
+
+
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 15px;
+    overflow: hidden;
+    background-color: rgb(183, 24, 24);
+    display: table;
+    width: 100%;
+}
+nav li {
+    display: table-cell;
+}
+
+li a {
+    display: block;
+    color: antiquewhite;
+    text-align: center;
+    padding: 30px 30 px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+    padding: 5px;
+}
+
+h2 a {
+    padding: 33px 25px;
+}
+
+h2 a:hover {
+    background-color: #111;
+}
+
+figcaption {
+    text-align: left;
+}
+
+header {
+    margin-left: 14px;
+}
+
+article {
+    text-align: left;
+    margin: 15px;
+    max-width: 80%;
+    font-size: 18px;
+    line-height: 32px;
+}
+
+img {
+    width: 800px;
+    height: 500px;
+    position: relative;
+    right: 28px;
+}
+
+aside {
+    left: 10px;
+    border: 1px solid black;
+    padding: 15px;
+    max-width: 80%;
+    position: relative;
+    border-color: #232536;
+    border-width: 5px;
+    font-size: 18px;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    bottom: -100;
+    background-color: #232536;
+}
+
+footer p {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+}
+
+embed {
+    width: 400px;
+    height: 458px;
+    padding: 15px;
+}
