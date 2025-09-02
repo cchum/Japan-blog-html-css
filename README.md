@@ -1,1 +1,1 @@
-# Japan-blog-html-css
+This project is a simple yet fun HTML and CSS website I created after visiting Japan. I wanted to showcase some styling with CSS while structuring the site cleanly using HTML. The goal was to share information about the country in a visually appealing way, while also making the site easy to navigate with a functional navigation bar.
